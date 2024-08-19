@@ -15,7 +15,7 @@ GPS Data
 6. Calculate total time
 7. Calculate average speed
 8. Distance graph
-9. REMOVED: A map of movement
+9. A map of movement
 10. Velocity graph
 ---
 Acceleration Data
