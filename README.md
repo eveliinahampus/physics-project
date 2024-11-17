@@ -3,7 +3,7 @@
 Introductory to applied physics and Jupyter notebooks with Python. Calculations and visualizations of GPS and acceleration data. Data handling, plotting and filtering. 
 
 ## Table of contents: 
----
+```---
 1. Import necessary libraries
 2. Read the data using pandas dataframes
 ---
@@ -34,3 +34,4 @@ A. From filtered data
 B. From unfiltered z-component data with power spectrum/FFT method.
 ---
 >Q: Is the number of steps logical?
+```
